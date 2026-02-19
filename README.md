@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Nicolas Vitor e sou um desenvolvedor Front-end.</h2>
+<h2 align="left">Olá 👋! Meu nome é Nicolas Vitor e sou um desenvolvedor Back-End</h2>
 
 ###
 
